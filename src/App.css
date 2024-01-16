@@ -582,7 +582,7 @@ nav.navbar .navbar-toggler[aria-expanded="ture"] .navbar-toggler-icon{
   bottom: -1px;
 }
 
-new-email-box::after{
+.new-email-box::after{
   content: "";
   background: #ffffff;
   border: 20px;
